@@ -1,4 +1,4 @@
-# Decisión Monitorizar el estado de cada familia de dispositivos IOT - ADR-008
+# DInvocar servicios de un simulador externo- ADR-008
 
 ## Status
 
@@ -6,7 +6,7 @@ Proposed
 
 ## Decisores:
 
-Irene Pérez Santiago - ASS
+Vicente González - ASC
 
 ## Date
 
@@ -14,7 +14,7 @@ Irene Pérez Santiago - ASS
 
 ## Context and Problem Statement
 
-Es deseable el uso de medidas de seguridad por determinar para el acceso de los usuarios.
+Se quieren usar microservicios para poder escalar el software e invocar los servicios de un simulador externo de parámetros de calidad para nuevos dispositivos IoT.
 
 ## Decision drivers
 
