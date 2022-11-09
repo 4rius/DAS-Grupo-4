@@ -18,7 +18,7 @@ Se quieren usar microservicios para poder escalar el software e invocar los serv
 
 ## Decision drivers
 
-RF1, RF1.1
+RF6
 
 ## Considered Options
 
