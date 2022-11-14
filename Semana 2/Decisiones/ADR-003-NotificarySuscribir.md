@@ -51,3 +51,7 @@ Opción elegida: "Apache Kafka", al proporcionar soporte para el envío de mensa
 * Bueno, por ser fácil de implementar solo necesitando 3 nuevos componentes. [3]
 * Malo, Estamos asumiendo que los mensajes se van a enviar solo en los momentos en los que ocurrra un evento, con este protocolo no podríamos asumir cantidades masivas de datos siendo enviadas constantemente, al final es una implementación del patrón Publish-Subscribe.
 * Malo, porque no procesa la información, es solo un protocolo de envío de mensajes.
+
+## Related Artifacts
+
+![image](https://user-images.githubusercontent.com/103439723/201760482-2138862a-b376-4e77-bfa6-dfe4dc478a1e.png)
