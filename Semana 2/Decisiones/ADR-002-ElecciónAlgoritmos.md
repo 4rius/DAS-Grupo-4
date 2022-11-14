@@ -39,3 +39,7 @@ Opción elegida: "Patrón de diseño Strategy", este patrón de diseño nos perm
 ## Negative Consequences
 
 * Añade dos objetos y una interfaz al software, para implementar algo relativamente sencillo.[1]
+
+## Related Artifact
+
+![image](https://user-images.githubusercontent.com/103439723/201759793-7262acd7-3ea3-4b2a-9694-28a662348ca5.png)
