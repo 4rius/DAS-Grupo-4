@@ -2,19 +2,20 @@
 ## Status
 
 ```diff
-+ Proposed
++ Approved
 ```
 
 ## Decisores:
 
 * Ángel Covarrubias - ASC
+* Santiago Arias - ASS
 ## Date
 
 * 2022-11-06
 
 ## Context and Problem Statement
 
-Necesitamos poder atribuir el orden de trabajo de los operativos y de las máquinas. 
+Necesitamos poder atribuir la orden de trabajo de los operativos y de las máquinas. 
 
 ## Decision drivers
 
@@ -26,7 +27,7 @@ RF2
 
 ## Decision Outcome
 
-Opción elegida: "[Patrón de diseño Mediator]", con este patrón aseguramos que usuario y los componentes de trabajo no se comunican de forma directa. 
+Opción elegida: "Patrón de diseño Mediator", con este patrón aseguramos que usuario y los componentes de trabajo no se comunican de forma directa. 
 
 ### Positive Consequences
 
@@ -34,4 +35,4 @@ Opción elegida: "[Patrón de diseño Mediator]", con este patrón aseguramos qu
 
 ## Negative Consequences
 
-* No se podría implementar si se quiere comunicar directamente el sistema principal con los operarios o las maquinas.
+* No se podría implementar si se quiere comunicar directamente el sistema principal con los operarios o las máquinas.
