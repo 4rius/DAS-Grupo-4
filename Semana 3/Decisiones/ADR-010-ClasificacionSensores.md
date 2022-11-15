@@ -2,7 +2,7 @@
 
 ## Arquitectura de software - ADR-010 Status
 
-    Proposed
+ Declined
 
 ## Decisores:
 
