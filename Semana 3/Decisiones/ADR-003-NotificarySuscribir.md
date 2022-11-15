@@ -54,4 +54,4 @@ Opción elegida: "Apache Kafka", al proporcionar soporte para el envío de mensa
 
 ## Related Artifacts
 
-![image](https://user-images.githubusercontent.com/103439723/201760482-2138862a-b376-4e77-bfa6-dfe4dc478a1e.png)
+![Alt text](../UML/Kafka.jpeg)
