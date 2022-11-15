@@ -5,6 +5,10 @@
 + Approved
 ```
 
+## Decisores:
+
+* Ángel Covarrubias - ASC
+* Santiago Arias - ASS
 ## Date
 
 * 2022-11-05

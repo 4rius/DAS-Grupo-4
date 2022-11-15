@@ -7,6 +7,7 @@ Approved
 ## Decisores:
 
 * Vicente González - ASC
+* Santiago Arias - ASS
 
 ## Date
 
@@ -40,3 +41,5 @@ Opción elegida: "Patrón de diseño Chain of Responsability" porque necesitamos
 * Es difícil de probar.
 
 ## Related artifact
+
+![Alt text](../UML/Chain%20of%20Responsability.jpeg)

@@ -5,6 +5,9 @@
 + proposed
 ```
 
+## Decisores:
+
+* Ángel Covarrubias - ASC
 ## Date
 
 * 2022-11-05
