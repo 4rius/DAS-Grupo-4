@@ -1,8 +1,8 @@
-# DInvocar servicios de un simulador externo- ADR-008
+# Invocar servicios de un simulador externo- ADR-008
 
 ## Status
 
-Proposed
+# REVIEW
 
 ## Decisores:
 
