@@ -5,7 +5,7 @@ Status
 
 Decisores:
 
-Todos los integrantes del grupo 4
+        Irene Pérez Santiago -ASS
 Date
 
     2022-11-07, (actualizado) 2022-11-08
