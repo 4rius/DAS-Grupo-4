@@ -59,6 +59,6 @@ Opción elegida: "Implementación de una arquitectura basada en eventos", porque
 
 ## Related Artifact
 
-![Alt text][img]
+![Alt text](../../Semana%201/Arquitectura/PrimeraIteracionArquitectura.jpeg)
 
-[img]: https://github.dev/4rius/DAS-P4/blob/main/Semana%201/PrimeraIteracionArquitectura.jpeg?raw=true
+# Actualizar los módulos
