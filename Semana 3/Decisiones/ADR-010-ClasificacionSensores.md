@@ -1,6 +1,6 @@
 
 
-## Arquitectura de software - ADR-010 Status
+## Clasificación de sensores - ADR-010 Status
 
  ### Declined
 
