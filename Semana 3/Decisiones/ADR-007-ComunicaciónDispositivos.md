@@ -1,7 +1,10 @@
-# Invocar servicios de un simulador externo- ADR-008
+# Adaptación de datos de los sensores- ADR-008
 
 ## Status
 
+# REVIEW
+# REVIEW
+# REVIEW
 # REVIEW
 
 ## Decisores:
