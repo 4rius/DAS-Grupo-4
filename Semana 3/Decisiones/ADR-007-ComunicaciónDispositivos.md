@@ -24,7 +24,7 @@ RF6
 
 ## Considered Options
 
-* API gateway
+* Conectar los sensores con un gateway
 
 ## Decision Outcome
 
