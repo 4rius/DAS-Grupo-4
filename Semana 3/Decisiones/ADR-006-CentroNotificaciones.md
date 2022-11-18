@@ -3,7 +3,7 @@
 ## Status
 
 ```diff
-+ Propposed
++ Approved
 ```
 
 ## Decisores
@@ -13,7 +13,7 @@
 
 ## Date
 
-* 2022-11-05
+* 2022-11-05, actualizado 2022-11-18
 
 ## Context and Problem Statement
 
@@ -27,17 +27,24 @@ RF1, RF1.1
 
 * Patrón de diseño Mediator
 * Patrón de diseño Adapter
+* Motor de eventos
 
 ## Decision Outcome
 
-Opcion elegida: "Adapter", al tener que realizar y mostrar las analíticas a partir de los datos de los distintos sensores, se necesita un adaptador que pase los datos que se encuentran en un formato al formato que pueda procesar el sistema de analíticas.
+Opcion elegida: "Motor de eventos", al ser el sitio por donde van a pasar todos los datos, y se van a gestionar todas las funcionalidades, decidicimos que sea el motor de eventos porque nos indican que es el único punto por donde entran los datos a nuestro sistema.
 
-### Positive Consequences
+## Positive Consequences
 
-* Principio de responsabilidad única. Se separa la parte lógica de negocio de la parte de conversión de datos o de la interfaz.
+* Desacoplación de servicios. Favorecemos que los productores y los consumidores de eventos no tengan que preocuparse de cómo se ha generado o cómo se genera un evento, sino que solo tienen que realizar su acción.
 
-* Reusabilidad. Gracias al adapter se pueden reusar partes del sistema que se encargaban de otras funciones para realizar nuevos objetivos.
+* Favorece la encapsulación. Dejando a cada servicio con su responsabilidad única.
+
+* Eficiente. Al procesar todos los eventos recibidos y las decisiones desde un solo motor, no malgastamos recursos computacionales en el resto del sistema.
 
 ## Negative Consequences
 
-* Complejidad. La complejidad del programa aumenta haciendo que si se quieren realizar pequeños cambios supongan un problema mayor.
+* Posibilidad de fallo o saturación. Dependendemos de un solo motor de eventos y confiamos en que no falle para que los productores y consumidores de eventos se puedan seguir comunicando. También podemos saturarlo si nos entran más datos que los que admite nuestro sistema.
+
+## Other options
+
+Las otras opciones no eran válidas puesto que no consideraban que este módulo es el motor de eventos de nuestra arquitectura.

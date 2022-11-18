@@ -10,6 +10,7 @@
 ## Decisores:
 
 Vicente González - ASC
+Irene Pérez - ASS
 
 ## Date
 

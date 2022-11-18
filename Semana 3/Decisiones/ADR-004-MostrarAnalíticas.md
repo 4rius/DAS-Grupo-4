@@ -2,15 +2,16 @@
 ## Status
 
 ```diff
-+ proposed
++ Approved
 ```
 
 ## Decisores:
 
 * Ángel Covarrubias - ASC
+* Santiago Arias - ASS
 ## Date
 
-* 2022-11-05
+* 2022-11-05, actualizado 2022-11-18
 
 ## Context and Problem Statement
 
@@ -30,9 +31,9 @@ Opción elegida: "Modelo Vista Controlador", con este patrón aseguramos que la 
 
 ### Positive Consequences
 
-* Bajo coste computacional. Si no se aplica un MVC en este caso, no tendría sentido la cantidad de poder computacional que necesitaríamos para poder abrir una simple interfaz, teniendo un controlador dedicado específicamente para sacar los datos y procesarlos por pantalla, reducimos esta necesidad computacional, así como tiempos de carga y mejoraríamos la visión de estadísticas en tiempo real.  
+* Bajo coste computacional. Si no se aplica un MVC en este caso, no tendría sentido la cantidad de poder computacional que necesitaríamos para poder abrir una simple interfaz, teniendo un controlador dedicado específicamente para sacar los datos y procesarlos por pantalla, reducimos esta necesidad computacional, así como tiempos de carga y mejoraríamos la visión de estadísticas en tiempo real.
 
-  
+* Fácil de extender. Nos permitirá añadir nuevas analíticas que vengan de otros dispositivos nuevos o existentes, sin tener que reimplementar nada, utilizando los módulos ya existentes.
 
 * Separación de componentes. Se asegura de que la lógica va a estar separada de la visualización de analíticas ahorrándonos futuros problemas.   
 
