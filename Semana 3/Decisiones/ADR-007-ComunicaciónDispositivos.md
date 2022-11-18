@@ -6,8 +6,7 @@ proposed
 
 ## Decisores:
 
-Vicente González - ASC
-
+Vicente González - ASC 
 Irene Pérez - ASS
 
 ## Date
