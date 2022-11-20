@@ -36,3 +36,8 @@ Opción elegida: "Patrón de diseño Mediator", con este patrón aseguramos que 
 ## Negative Consequences
 
 * No se podría implementar si se quiere comunicar directamente el sistema principal con los operarios o las máquinas.
+
+## Related Artifacts
+
+![image](https://user-images.githubusercontent.com/103439723/202898703-96badc1b-c45e-4de9-9931-6f05c94ceb2c.png)
+
