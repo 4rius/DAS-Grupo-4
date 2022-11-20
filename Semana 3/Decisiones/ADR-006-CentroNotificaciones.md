@@ -48,3 +48,7 @@ Opcion elegida: "Motor de eventos", al ser el sitio por donde van a pasar todos 
 ## Other options
 
 Las otras opciones no eran válidas puesto que no consideraban que este módulo es el motor de eventos de nuestra arquitectura.
+
+## Related Artifacts
+
+![image](https://user-images.githubusercontent.com/103439723/202898868-efd17d1c-34a4-4a29-ada3-34fb3785af41.png)
