@@ -59,6 +59,6 @@ Opción elegida: "Implementación de una arquitectura basada en eventos", porque
 
 ## Related Artifact
 
-![Alt text](../../Semana%201/Arquitectura/PrimeraIteracionArquitectura.jpeg)
+![image](https://user-images.githubusercontent.com/103439723/202898037-1d90e14b-a661-48ab-b84a-5b8c15687eb0.png)
 
 # Actualizar los módulos
