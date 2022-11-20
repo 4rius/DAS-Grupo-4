@@ -37,3 +37,8 @@ RF1, RF1.1
 * Se  podrá dar algun caso donde no funcione
 * No se pueden anular métodos en Adapter.
 * No se puede reutilizar Adapter con subclases
+
+## Related Artifacts
+
+![image](https://user-images.githubusercontent.com/103439723/202898660-600fb115-7af8-48fd-977f-615aa1a6a815.png)
+
