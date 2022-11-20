@@ -41,3 +41,6 @@ Opción elegida: "Modelo Vista Controlador", con este patrón aseguramos que la 
 
 * No se podría implementar si los datos recibidos del proceso productivo no llegan correctamente, al igual que si las ordenes de trabajo no son las adecuadas producirían que los datos expuestos en las analíticas sean incorrectos.
 
+## Related Artifacts
+
+![image](https://user-images.githubusercontent.com/103439723/202898779-0d8ca71c-f210-46fc-b909-91f3d221f3e2.png)
