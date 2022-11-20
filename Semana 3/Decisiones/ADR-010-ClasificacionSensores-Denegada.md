@@ -26,7 +26,7 @@ RF1, RF1.1
 
 ## Decision Outcome
 
-* Patrón Estructural Adapter ya que permite la colaboración entre objetos que son incompatibles de varias interfaces. Al tener una interacciones ntre los distintos sensores, en el cada uno tiene características distintas, de esta manera nos evitamos problemas.
+* Patrón Estructural Adapter ya que permite la colaboración entre objetos que son incompatibles de varias interfaces. Al tener una interacciones entre los distintos sensores, en el cada uno tiene características distintas, de esta manera nos evitamos problemas.
 
 ## Positive Consequences
 * Nos evitamos problemas de compatibilidades entre los distintos sensores
