@@ -41,3 +41,8 @@ Todos los sensores se comunicaran con un único gateway, este sera el encargado 
 
 * Añade complejidad al sistema.
 
+## Related Artifacts
+
+![image](https://user-images.githubusercontent.com/103439723/202899052-13c48ebd-601b-477c-9a19-1721e5e5e2dc.png)
+
+
