@@ -1,4 +1,4 @@
-# Notificar y suscribirse a eventos - ADR-003
+# Notificar y suscribirse a eventos - Patrón Publish-Subscribe propietario - ADR-013
 
 ## Status
 
