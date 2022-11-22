@@ -63,4 +63,4 @@ Opción elegida: "Apache Kafka", al proporcionar soporte para el envío de mensa
 
 ## Related Artifacts
 
-![Alt text](../UML/Kafka.jpeg)
+![Alt text](../UML/ADR003.PNG)

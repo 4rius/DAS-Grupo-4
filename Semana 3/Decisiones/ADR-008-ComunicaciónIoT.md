@@ -42,6 +42,4 @@ Opción elegida: "Patrón de diseño Chain of Responsability" porque necesitamos
 
 ## Related artifact
 
-![Alt text](../UML/Chain%20of%20Responsability.jpeg)
-
-## Los tipos que se muestran pertenecen a la misma familia de dispositivos IoT
+![Alt text](../UML/ADR008.PNG)

@@ -44,4 +44,4 @@ Opción elegida: "Modelo Vista Controlador", con este patrón aseguramos que la 
 
 ## Related Artifacts
 
-![image](https://user-images.githubusercontent.com/103439723/202898779-0d8ca71c-f210-46fc-b909-91f3d221f3e2.png)
+![Alt text](../UML/ADR004.PNG)

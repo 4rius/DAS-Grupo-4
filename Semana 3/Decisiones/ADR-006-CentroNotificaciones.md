@@ -51,4 +51,4 @@ Las otras opciones no eran válidas puesto que no consideraban que este módulo 
 
 ## Related Artifacts
 
-![image](https://user-images.githubusercontent.com/103439723/202898868-efd17d1c-34a4-4a29-ada3-34fb3785af41.png)
+![Alt text](../UML/ADR006.PNG)
