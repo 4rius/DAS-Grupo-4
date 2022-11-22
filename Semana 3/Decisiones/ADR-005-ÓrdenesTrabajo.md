@@ -5,10 +5,11 @@
 + Approved
 ```
 
-## Decisores:
+## Decisores
 
 * Ángel Covarrubias - ASC
 * Santiago Arias - ASS
+
 ## Date
 
 * 2022-11-06
@@ -27,11 +28,11 @@ RF2
 
 ## Decision Outcome
 
-Opción elegida: "Patrón de diseño Mediator", con este patrón aseguramos que usuario y los componentes de trabajo no se comunican de forma directa. 
+Opción elegida: "Patrón de diseño Mediator", con este patrón aseguramos que usuario y los componentes de trabajo no se comunican de forma directa.
 
 ### Positive Consequences
 
-* Comunicación correcta. Al haber un mediador entre los dos no hay problemas de comunicación ya que no es necesario de que ambos estén disponibles para que la orden sea comunicada. El usuario decide el orden de trabajo, el mediador guarda esa información y cuando el operativo o la maquina esté disponible se le mandara el mensaje.     
+* Comunicación correcta. Al haber un mediador entre los dos no hay problemas de comunicación ya que no es necesario de que ambos estén disponibles para que la orden sea comunicada. El usuario decide el orden de trabajo, el mediador guarda esa información y cuando el operativo o la maquina esté disponible se le mandara el mensaje.
 
 ## Negative Consequences
 

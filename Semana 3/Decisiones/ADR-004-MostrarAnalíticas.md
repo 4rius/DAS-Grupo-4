@@ -5,10 +5,11 @@
 + Approved
 ```
 
-## Decisores:
+## Decisores
 
 * Ángel Covarrubias - ASC
 * Santiago Arias - ASS
+
 ## Date
 
 * 2022-11-05, actualizado 2022-11-18
@@ -23,7 +24,7 @@ RF1, RF1.1
 
 ## Considered Options
 
-*  Modelo Vista Controlador 
+* Modelo Vista Controlador
 
 ## Decision Outcome
 

@@ -1,12 +1,12 @@
 
 
-## Clasificación de sensores - ADR-010 Status
+## Clasificación de sensores - ADR-010
 
- ### Declined
+ ### Deniend
 
 ## Decisores:
 
-* Irene Pérez Santiago -ASS
+* Irene Pérez Santiago - ASS
 
 ## Date
 
@@ -42,3 +42,4 @@ RF1, RF1.1
 
 ![image](https://user-images.githubusercontent.com/103439723/202898660-600fb115-7af8-48fd-977f-615aa1a6a815.png)
 
+## Denegada por el equipo ASC, discutida y grabada

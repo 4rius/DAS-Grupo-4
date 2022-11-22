@@ -6,7 +6,7 @@
 + Approved
 ```
 
-## Decisores:
+## Decisores
 
 * Santiago Arias - ASS
 

@@ -8,7 +8,7 @@
 
 ## Decisores
 
-Todos los integrantes del grupo 4
+ASS y ASC equipo 4
 
 ## Date
 
@@ -24,7 +24,7 @@ RF1, RF1.1, RF2, RF3, RF3.1, RF4, RF5, RF5.1
 
 ## Considered Options
 
-* Implementación de una Arquitectura de Microservicios
+* [Arquitectura de microservicios](https://github.com/4rius/DAS-P4/blob/main/Semana%203/Decisiones/Denegadas/ADR-011-Microservicios-Denegada.md)
 * Implementación de una Arquitectura basada en eventos
 
 ## Decision Outcome
@@ -49,7 +49,7 @@ Opción elegida: "Implementación de una arquitectura basada en eventos", porque
 
 ## Other options
 
-### Implementación de una Arquitectura de Microservicios
+### [Arquitectura de microservicios](https://github.com/4rius/DAS-P4/blob/main/Semana%203/Decisiones/Denegadas/ADR-011-Microservicios-Denegada.md)
 
 * Buena, por la posibilidad de escalar rápidamente e independencia de servicios.
 * Mala, por no ofrecer la baja latencia y balanceo de carga que nos ofrece la arquitectura basada en eventos.
