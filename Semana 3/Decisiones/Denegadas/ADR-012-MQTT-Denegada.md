@@ -1,4 +1,4 @@
-# Notificar y suscribirse a eventos - ADR-003
+# Notificar y suscribirse a eventos - MQTT - ADR-012
 
 ## Status
 
