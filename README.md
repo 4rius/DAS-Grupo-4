@@ -14,3 +14,5 @@ Integrantes y roles:
 > Gabriel Serrano - *g.serrano.2020@alumnos.urjc.es* - ASJ
 
 > Javier Gaspariño - *j.gasparino.2020@alumnos.urjc.es* - ASJ
+
+## *Este repositorio queda cerrado el 23/11/2022 a las 20:25 hora española.*
