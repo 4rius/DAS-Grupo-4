@@ -1,4 +1,5 @@
-# Decisión Asignar trabajos - ADR-005
+# Asignación de trabajos - ADR-005
+
 ## Status
 
 ```diff
@@ -16,7 +17,7 @@
 
 ## Context and Problem Statement
 
-Necesitamos poder atribuir la orden de trabajo de los operativos y de las máquinas. 
+Necesitamos poder atribuir la orden de trabajo de los operativos y de las máquinas.
 
 ## Decision drivers
 
@@ -41,4 +42,3 @@ Opción elegida: "Patrón de diseño Mediator", con este patrón aseguramos que 
 ## Related Artifacts
 
 ![image](https://user-images.githubusercontent.com/103439723/202898703-96badc1b-c45e-4de9-9931-6f05c94ceb2c.png)
-

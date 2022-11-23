@@ -8,6 +8,10 @@ Approved
 
 * Santiago Arias - ASS
 * Vicente González - ASC
+* Irene Pérez - ASS
+* Ángel Covarrubias - ASC
+
+*Esta decisión ha sido grabada*
 
 ## Date
 

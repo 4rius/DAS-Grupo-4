@@ -1,4 +1,4 @@
-# Decisión Centro de notificaiones - ADR-006
+# Centro de notificaiones - ADR-006
 
 ## Status
 
@@ -10,6 +10,8 @@
 
 * Ángel Covarrubias - ASC
 * Santiago Arias - ASS
+
+*Esta decisión ha sido grabada*
 
 ## Date
 

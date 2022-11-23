@@ -1,4 +1,5 @@
-# Decisión Mostrar las analíticas - ADR-004
+# Mostrar las analíticas - ADR-004
+
 ## Status
 
 ```diff
@@ -28,7 +29,7 @@ RF1, RF1.1
 
 ## Decision Outcome
 
-Opción elegida: "Modelo Vista Controlador", con este patrón aseguramos que la lógica está separada de su visualización. 
+Opción elegida: "Modelo Vista Controlador", con este patrón aseguramos que la lógica está separada de su visualización.
 
 ### Positive Consequences
 
@@ -36,7 +37,7 @@ Opción elegida: "Modelo Vista Controlador", con este patrón aseguramos que la 
 
 * Fácil de extender. Nos permitirá añadir nuevas analíticas que vengan de otros dispositivos nuevos o existentes, sin tener que reimplementar nada, utilizando los módulos ya existentes.
 
-* Separación de componentes. Se asegura de que la lógica va a estar separada de la visualización de analíticas ahorrándonos futuros problemas.   
+* Separación de componentes. Se asegura de que la lógica va a estar separada de la visualización de analíticas ahorrándonos futuros problemas.
 
 ## Negative Consequences
 

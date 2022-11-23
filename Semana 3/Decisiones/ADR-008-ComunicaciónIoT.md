@@ -27,7 +27,7 @@ RFN - Requisitos no funcionales para el funcionamiento del software
 
 ## Decision Outcome
 
-Opción elegida: "Patrón de diseño Chain of Responsability" porque necesitamos una cadena de sensores donde cada vez que recibamos información de un sensor anterior, este pueda procesar la información que haya recibido, y siga la cadena hasta llegar al centro de notificaciones.
+Opción elegida: "Patrón de diseño Chain of Responsability" porque necesitamos una cadena de sensores donde cada vez que recibamos información de un sensor anterior, este pueda procesar la información que haya recibido, y siga la cadena hasta llegar al centro de notificaciones (o a su [gateway](/Semana%203/Decisiones/ADR-007-Adaptaci%C3%B3nDatosSensores.md)).
 
 ### Positive Consequences
 
